@@ -1,0 +1,25 @@
+{
+"trailDesc":"* In this trail, the Math Questions are hidden along the path of world famous rail routes !<br>",
+"trailZoom":"2",
+"trailMinZoom":"2",
+"visibleZoom":"16",
+"trailCenter":{"latCoord":"22.2687640","lngCoord":"-16.875"},
+"oCircleRequired":"true",
+"oCircleRadius":"2000000",
+"oButtonRequired":"true",
+"oButtonZoom": "4",
+"mCircleRequired":"true",
+"mCircleRadius":"30000",
+"mCircleZoom": "6",
+"vCircleRequired":"true",
+"vCircleRadius":"500",
+"vCircleZoom": "9",
+"roundOffDivFactor": "1",
+"infoBubbleLoc":{"latCoord":"-12.4410223","lngCoord":"-51.5039062"},
+"trailLocs":[
+{"locTitle":"HeyMath head office - Chennai,India","locClue":"The innovative education company !","latCoord":"13.0488668","lngCoord":"80.2530348"},
+{"locTitle":"Pudong International Airport - China","locClue":"One of the end points of the Shanghai Maglev Train !","latCoord":"31.152809","lngCoord":"121.804841"},
+{"locTitle":"The Channel Tunnel - UK","locClue":"World's longest undersea railway tunnel !","latCoord":"51.023362","lngCoord":"1.469679"},
+{"locTitle":"Nairobi - Kenya","locClue":"This African capital city was founded in 1899 as a railway supply depot !","latCoord":"-1.292041","lngCoord":"36.827887"},
+{"locTitle":"Pamban Bridge - India","locClue":"The railway line that runs over the second longest sea bridge in india !","latCoord":"9.282499","lngCoord":"79.199935"}
+]}

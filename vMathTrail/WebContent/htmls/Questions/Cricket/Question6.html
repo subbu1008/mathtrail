@@ -1,0 +1,30 @@
+<!-- <div class="bg" style="background: url('images/questionbg/7Wonders/greatPyramid.jpg') center top;"></div> -->
+<div id="questionSection" style="display:block">
+
+<input type="hidden" id="uax" value = "C" />
+<input type="hidden" id="uaxText" value = "10" />
+
+<div>
+<span>A cricket ball is dropped from a height of 2 metres onto the pitch. The first time it bounces, it returns to a height of 1 metre, the second bounce returns it to 0.5 metres and so on, halving the height on each bounce.
+ How many times must the ball bounce before the height is less than 0.25 cm?</span><br><br><span class="empty_space">&nbsp;</span>
+</div>
+	
+	<div style="padding:0px 0px 0px 40px;" align="center">
+			<img style="float:left;height:170px;width: auto;" src="images/question/Cricket/ball.png" >
+	</div>
+
+	<div align="left" style="padding:0px 0px 10px 400px;">
+		
+		<form name="frmRadio" >
+			<input type="radio" name="answer" id="radioA" value="A" onclick="selectAnswer();"/><label for="radioA"> A) 3</label><br/><br/>
+			<input type="radio" name="answer" id="radioB" value="B" onclick="selectAnswer();"/><label for="radioB"> B) 4</label><br/><br/>
+			<input type="radio" name="answer" id="radioC" value="C" onclick="selectAnswer();"/><label for="radioC"> C) 10</label><br/><br/>
+			<input type="radio" name="answer" id="radioD" value="D" onclick="selectAnswer();"/><label for="radioD"> D) 12</label><br/><br/>
+			
+			<br/><br/>
+			
+			<a id="ansSubmit" class="button red bigrounded" onclick="submitAnswer();">Submit</a>
+		</form>
+	</div>
+
+</div>

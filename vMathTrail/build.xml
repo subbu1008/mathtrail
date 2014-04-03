@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="." default="build" name="vMathTrail">
+    <property environment="env"/>
+    <property name="ECLIPSE_HOME" value="../../../../usr/lib/eclipse"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.6"/>
+    <property name="source" value="1.6"/>
+    <path id="EAR Libraries.libraryclasspath"/>
+    <path id="vMathTrail.classpath">
+        <pathelement location="build/classes"/>
+        <path refid="EAR Libraries.libraryclasspath"/>
+        <pathelement location="WebContent/WEB-INF/lib/antlr-2.7.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/aopalliance-1.0.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/asm-3.3.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/asm-commons-3.3.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/asm-tree-3.3.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/classworlds-1.1.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/commons-beanutils-1.7.0.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/commons-chain-1.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/commons-collections-3.1.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/commons-digester-2.0.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/commons-io-2.0.1.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/commons-lang-2.5.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/commons-logging-api-1.1.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/commons-validator-1.3.1.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/freemarker-2.3.18.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/javassist-3.11.0.GA.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/jstl.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/nblibraries.properties"/>
+        <pathelement location="WebContent/WEB-INF/lib/ognl-3.0.4.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/sitemesh-2.4.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/struts-core-1.3.10.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/struts2-codebehind-plugin-2.3.1.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/struts2-config-browser-plugin-2.3.1.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/struts2-convention-plugin-2.3.1.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/struts2-core-2.3.1.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/struts2-dojo-plugin-2.3.1.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/struts2-jquery-plugin-3.2.1.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/struts2-json-plugin-2.3.1.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/struts2-junit-plugin-2.3.1.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/struts2-struts1-plugin-2.3.1.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/testng-5.1-jdk15.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/velocity-1.6.3.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/xpp3_min-1.1.3.4.O.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/xstream-1.2.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/xwork-core-2.3.1.2.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/sqljdbc4-2.0.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/json-lib-2.2.2-jdk15.jar"/>
+        <pathelement location="WebContent/WEB-INF/lib/ezmorph-1.0.4.jar"/>
+    </path>
+    <target name="init">
+        <mkdir dir="build/classes"/>
+        <copy includeemptydirs="false" todir="build/classes">
+            <fileset dir="src">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="build/classes"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="build/classes" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="vMathTrail.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+</project>

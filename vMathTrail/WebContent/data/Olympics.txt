@@ -1,0 +1,27 @@
+{
+"trailDesc":"* In this trail, the Math Questions are hidden around olympic stadiums of the world !<br>",
+"trailZoom":"2",
+"trailMinZoom":"2",
+"visibleZoom":"18",
+"trailCenter":{"latCoord":"3.51342104","lngCoord":"30.5859375"},
+"oCircleRequired":"true",
+"oCircleRadius":"2000000",
+"oButtonRequired":"true",
+"oButtonZoom": "4",
+"mCircleRequired":"true",
+"mCircleRadius":"50000",
+"mCircleZoom": "6",
+"vCircleRequired":"true",
+"vCircleRadius":"500",
+"vCircleZoom": "10",
+"roundOffDivFactor": "1",
+"infoBubbleLoc":{"latCoord":"-12.4410223","lngCoord":"-51.5039062"},
+"trailLocs":[
+{"locTitle":"HeyMath head office - Chennai,India","locClue":"The innovative education company !","latCoord":"13.0488668","lngCoord":"80.2530348"},
+{"locTitle":"Sydney - Australia","locClue":"This city hosted the Millennium Olympic Games !","latCoord":"-33.847251","lngCoord":"151.063417"},
+{"locTitle":"Seoul - South Korea","locClue":"This city hosted the second summer Olympic Games to be held in Asia !","latCoord":"37.515692","lngCoord":"127.072645"},
+{"locTitle":"Athens - Greece","locClue":"This city hosted the first Modern Olympic Games !","latCoord":"38.036042","lngCoord":"23.787664"},
+{"locTitle":"Barcelona - Spain","locClue":"This city hosted the Olympics in which the flame was lit by an archer !","latCoord":"41.364683","lngCoord":"2.155638"},
+{"locTitle":"London - United Kingdom","locClue":"This city has so far hosted the most number of modern Olympic Games !","latCoord":"51.538568","lngCoord":"-0.016479"},
+{"locTitle":"Montreal - Canada","locClue":"This city hosted the Olympic games in 1976 !","latCoord":"45.557799","lngCoord":"-73.551922"}
+]}

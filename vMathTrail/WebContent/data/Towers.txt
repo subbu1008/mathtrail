@@ -1,0 +1,27 @@
+{
+"trailDesc":"* In this trail, the Math Questions are hidden around famous towers of the world !<br>",
+"trailZoom":"2",
+"trailMinZoom":"2",
+"visibleZoom":"18",
+"trailCenter":{"latCoord":"3.51342104","lngCoord":"30.5859375"},
+"oCircleRequired":"true",
+"oCircleRadius":"2000000",
+"oButtonRequired":"true",
+"oButtonZoom": "4",
+"mCircleRequired":"true",
+"mCircleRadius":"50000",
+"mCircleZoom": "6",
+"vCircleRequired":"true",
+"vCircleRadius":"500",
+"vCircleZoom": "10",
+"roundOffDivFactor": "1",
+"infoBubbleLoc":{"latCoord":"-12.4410223","lngCoord":"-51.5039062"},
+"trailLocs":[
+{"locTitle":"HeyMath head office - Chennai,India","locClue":"The innovative education company !","latCoord":"13.0488668","lngCoord":"80.2530348"},
+{"locTitle":"Leaning tower of Pisa - Italy","locClue":"The tower with a tilt !","latCoord":"43.7234207","lngCoord":"10.3966452"},
+{"locTitle":"Eiffel tower - France","locClue":"This famous tower is entirely made of wrought iron !","latCoord":"48.8579418","lngCoord":"2.2951146"},
+{"locTitle":"CN Tower - Canada","locClue":"Tower built by the railway company - Canadian National !","latCoord":"43.6425155","lngCoord":"-79.3885536"},
+{"locTitle":"Space Needle - USA","locClue":"This tower is the symbol of Seattle skyline !","latCoord":"47.6219406","lngCoord":"-122.3493460"},
+{"locTitle":"Sky Tower - New Zealand","locClue":"Tallest freestanding structure in the Southern hemisphere !","latCoord":"-36.8463856","lngCoord":"174.7624227"},
+{"locTitle":"Oriental Pearl Tower - China","locClue":"TV tower located in one of China's largest cities !","latCoord":"31.2413251","lngCoord":"121.4955657"}
+]}

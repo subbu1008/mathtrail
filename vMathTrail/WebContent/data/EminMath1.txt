@@ -1,0 +1,27 @@
+{
+"trailDesc":"* In this trail, the Math Questions are hidden around locations connected with the life of eminent mathematicians !<br>",
+"trailZoom":"3",
+"trailMinZoom":"3",
+"visibleZoom":"8",
+"trailCenter":{"latCoord":"32.694866","lngCoord":"31.640625"},
+"oCircleRequired":"true",
+"oCircleRadius":"2000000",
+"oButtonRequired":"true",
+"oButtonZoom": "4",
+"mCircleRequired":"false",
+"mCircleRadius":"50000",
+"mCircleZoom": "5",
+"vCircleRequired":"true",
+"vCircleRadius":"100000",
+"vCircleZoom": "6",
+"roundOffDivFactor": "1",
+"infoBubbleLoc":{"latCoord":"13.410994","lngCoord":"5.976563"},
+"trailLocs":[
+{"locTitle":"HeyMath head office - Chennai,India","locClue":"The innovative education company !","latCoord":"13.0488668","lngCoord":"80.2530348"},
+{"locTitle":"Bijapur - India","locClue":"Birth place of the mathematician who was famous for his work 'Lilavati' !","latCoord":"16.824020","lngCoord":"75.715340"},
+{"locTitle":"Baghdad - Iraq","locClue":"The word 'Algorithm' was based on the name of a math scholar from here !","latCoord":"33.325000","lngCoord":"44.422000"},
+{"locTitle":"Samos - Greece","locClue":"Birth place of the math scholar who gave us the famous theorem on triangles !","latCoord":"37.733254","lngCoord":"26.810074"},
+{"locTitle":"Syracuse - Italy","locClue":"The math scholar who cried 'Eureka!' was from here !","latCoord":"37.070793","lngCoord":"15.286446"},
+{"locTitle":"Paris - France","locClue":"A woman mathematician mentored by Joseph Lagrange was born here !","latCoord":"48.863625","lngCoord":"2.349987"},
+{"locTitle":"Woolsthorpe - England","locClue":"The Apple that fell here inspired a great theory !","latCoord":"52.810687","lngCoord":"-0.631998"}
+]}

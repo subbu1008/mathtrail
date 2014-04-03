@@ -1,0 +1,20 @@
+{
+"trailZoom":"2",
+"trailMinZoom":"2",
+"visibleZoom":"14",
+"trailCenter":{"latCoord":"22.2687640","lngCoord":"-16.875"},
+"oCircleRequired":"true",
+"oCircleRadius":"2000000",
+"vCircleRequired":"true",
+"vCircleRadius":"20000",
+"vCircleZoom": "4",
+"trailLocs":[
+{"locTitle":"HeyMath","locClue":"The innovative education company !","latCoord":"13.0488668","lngCoord":"79.0881546"},
+{"locTitle":"Mt Kilimanjaro","locClue":"Only snow covered peak in the equator!","latCoord":"-3.0664648","lngCoord":"37.3506658"},
+{"locTitle":"Grand Canyon","locClue":"World's largest canyon!","latCoord":"36.08462129606931","lngCoord":"-111.884765625"},
+{"locTitle":"Niagara Falls","locClue":"World's widest waterfall!","latCoord":"43.07857449341698","lngCoord":"-79.07581329345703"},
+{"locTitle":"Mt Olympus","locClue":"This gave the name to the Olympic games!","latCoord":"40.080172991335","lngCoord":"22.34893798828125"},
+{"locTitle":"Dead Sea","locClue":"You can walk over this sea!","latCoord":"31.3333333","lngCoord":"35.5"},
+{"locTitle":"Mt Everest","locClue":"Top of the world!","latCoord":"27.9858181","lngCoord":"86.9235958"},
+{"locTitle":"Mt Fuji","locClue":"Famous Volcano. Also the name of a camera brand!","latCoord":"35.3605555","lngCoord":"138.7277777"}
+]}

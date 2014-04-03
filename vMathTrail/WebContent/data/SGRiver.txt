@@ -1,0 +1,24 @@
+{
+"trailDesc":"* In this trail, the Math Questions are hidden along the banks of the Singapore River !<br>",
+"trailZoom":"16",
+"visibleZoom":"18",
+"trailCenter":{"latCoord":"1.2886605","lngCoord":"103.8493394"},
+"oCircleRequired":"true",
+"oCircleRadius":"200",
+"oButtonRequired":"true",
+"oButtonZoom": "16",
+"vCircleRequired":"true",
+"vCircleRadius":"20",
+"vCircleZoom": "17",
+"roundOffDivFactor": "10",
+"infoBubbleLoc":{"latCoord":"1.2860434","lngCoord":"103.8463783"},
+"trailLocs":[
+{"locTitle":"Start point","locClue":"Start point !","latCoord":"1.2914601","lngCoord":"103.8424944"},
+{"locTitle":"Po Chiak Keng Temple","locClue":"The ancestral temple of the Tan clan !","latCoord":"1.2894221","lngCoord":"103.8428378"},
+{"locTitle":"Masjid Omar Kampong Melaka","locClue":"The first mosque to be built in Singapore !","latCoord":"1.2879043","lngCoord":"103.8441467"},
+{"locTitle":"MICA","locClue":"This building was declared a national monument in 1998 !","latCoord":"1.2909452","lngCoord":"103.8483417"},
+{"locTitle":"Raffles' Landing Site","locClue":"The Father of Singapore landed here !","latCoord":"1.2876576","lngCoord":"103.8507181"},
+{"locTitle":"Cavenagh Bridge","locClue":"The first steel suspension bridge in Singapore !","latCoord":"1.2865314","lngCoord":"103.8524079"},
+{"locTitle":"Fullerton Hotel","locClue":"This stands on the former site of a Fort !","latCoord":"1.2863759","lngCoord":"103.8533091"},
+{"locTitle":"Merlion Park","locClue":"The mascot of Singapore stands here !","latCoord":"1.2868425","lngCoord":"103.8545215"}
+]}

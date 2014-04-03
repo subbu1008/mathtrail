@@ -1,0 +1,28 @@
+<div class="bg" style="background: url('images/questionbg/7Wonders/elCastillo.jpg') center top;"></div>
+<div id="questionSection" style="display:block">
+
+<input type="hidden" id="uax" value = "C" />
+<input type="hidden" id="uaxText" value = "The number of days in a non leap year" />
+
+<div>
+<span>The El Castillo is in the shape of a step-pyramid with four faces. Each of the four faces consists of <B>91 steps</B> that ascend to the top platform. The total
+number of steps (on the 4 faces) including the top platform represents an important number in the calendar.<br/><br/></span><span class="empty_space">&nbsp;</span>
+</div>
+	
+	<div style="padding:0px 0px 0px 40px;" align="center">
+			<img style="float:left;" src="images/question/7Wonders/ElCastillo.gif" >
+	</div>
+
+	<div align="left" style="padding:0px 0px 10px 400px;">
+		<span >This number stands for:</span><br/><br/>
+		<form name="frmRadio" >
+			<input type="radio" name="answer" id="radioA" value="A" onclick="selectAnswer();"/><label for="radioA"> A) The number weeks in a year</label><br/><br/>
+			<input type="radio" name="answer" id="radioB" value="B" onclick="selectAnswer();"/><label for="radioB"> B) The number of leap years in a century</label><br/><br/>
+			<input type="radio" name="answer" id="radioC" value="C" onclick="selectAnswer();"/><label for="radioC"> C) The number of days in a non leap year</label><br/><br/>
+			<input type="radio" name="answer" id="radioD" value="D" onclick="selectAnswer();"/><label for="radioD"> D) The number of equinoxes in 10 years</label><br/><br/>
+			
+			<a id="ansSubmit" class="button red bigrounded" onclick="submitAnswer();">Submit</a>
+		</form>
+	</div>
+
+</div>

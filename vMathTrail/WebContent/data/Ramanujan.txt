@@ -1,0 +1,26 @@
+{
+"trailDesc":"* In this trail, the Math Questions are hidden in locations centered around the life of Ramanujan !<br>",
+"trailZoom":"7",
+"trailMinZoom":"2",
+"visibleZoom":"14",
+"trailCenter":{"latCoord":"12.0608090","lngCoord":"77.8710937"},
+"oCircleRequired":"true",
+"oCircleRadius":"40000",
+"oButtonRequired":"true",
+"oButtonZoom": "4",
+"mCircleRequired":"false",
+"mCircleRadius":"50000",
+"mCircleZoom": "5",
+"vCircleRequired":"true",
+"vCircleRadius":"1000",
+"vCircleZoom": "11",
+"roundOffDivFactor": "1",
+"infoBubbleLoc":{"latCoord":"12.0070845","lngCoord":"76.6955566"},
+"trailLocs":[
+{"locTitle":"Start location - India","locClue":"Start location !","latCoord":"10.4121831","lngCoord":"77.9260253"},
+{"locTitle":"Erode - India","locClue":"The great mathematician was born here !","latCoord":"11.3427180","lngCoord":"77.7365112"},
+{"locTitle":"Namakkal - India","locClue":"Ramanujan's family deity Namagiri is enshrined here !","latCoord":"11.2195098","lngCoord":"78.1677991"},
+{"locTitle":"Kumbakonam - India","locClue":"Ramanujan did his schooling here !","latCoord":"10.9614160","lngCoord":"79.3834304"},
+{"locTitle":"Chennai - India","locClue":"Ramanujan worked here as a clerk in the Acct General's office !","latCoord":"13.0507168","lngCoord":"80.2482604"},
+{"locTitle":"Cambridge - England","locClue":"Ramanujan worked with G.H.Hardy in this University town  !","latCoord":"52.20702809","lngCoord":"0.1173520"}
+]}

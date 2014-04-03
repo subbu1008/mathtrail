@@ -1,0 +1,27 @@
+{
+"trailDesc":"* In this trail, the Math Questions are hidden around world famous islands !<br>",
+"trailZoom":"2",
+"trailMinZoom":"2",
+"visibleZoom":"12",
+"trailCenter":{"latCoord":"16","lngCoord":"0"},
+"oCircleRequired":"true",
+"oCircleRadius":"2000000",
+"oButtonRequired":"true",
+"oButtonZoom": "4",
+"mCircleRequired":"true",
+"mCircleRadius":"50000",
+"mCircleZoom": "5",
+"vCircleRequired":"true",
+"vCircleRadius":"500",
+"vCircleZoom": "9",
+"roundOffDivFactor": "1",
+"infoBubbleLoc":{"latCoord":"-12.4410223","lngCoord":"-51.5039062"},
+"trailLocs":[
+{"locTitle":"HeyMath head office - Chennai,India","locClue":"The innovative education company !","latCoord":"13.0488668","lngCoord":"80.2530348"},
+{"locTitle":"Elba - Europe","locClue":"Napoleon was exiled to this island in 1814 !","latCoord":"42.765666","lngCoord":"10.189133"},
+{"locTitle":"Alcatraz - North America","locClue":"This american island was famous for a dreaded federal prison !","latCoord":"37.826548","lngCoord":"-122.422822"},
+{"locTitle":"Easter Island - South America","locClue":"This island is famous for hundreds of giant stone statues carved by ancient people !","latCoord":"-27.111701","lngCoord":"-109.360657"},
+{"locTitle":"Madagascar - Africa","locClue":"This island's rich biodiversity has inspired an animation movie !","latCoord":"-19.890723","lngCoord":"46.625977"},
+{"locTitle":"Maldives - Asia","locClue":"The garland of islands !","latCoord":"4.174283","lngCoord":"73.510423"},
+{"locTitle":"Tasmania - Australia","locClue":"The Apple Isle !","latCoord":"-42.236652","lngCoord":"146.66748"}
+]}

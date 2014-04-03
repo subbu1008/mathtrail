@@ -1,0 +1,28 @@
+{
+"trailDesc":"* In this trail, the Math Questions are hidden around the 7 Wonders of the world !<br>",
+"trailZoom":"2",
+"trailMinZoom":"2",
+"visibleZoom":"16",
+"trailCenter":{"latCoord":"22.2687640","lngCoord":"-16.875"},
+"oCircleRequired":"true",
+"oCircleRadius":"2000000",
+"oButtonRequired":"true",
+"oButtonZoom": "4",
+"mCircleRequired":"true",
+"mCircleRadius":"50000",
+"mCircleZoom": "5",
+"vCircleRequired":"true",
+"vCircleRadius":"500",
+"vCircleZoom": "9",
+"roundOffDivFactor": "1",
+"infoBubbleLoc":{"latCoord":"-12.4410223","lngCoord":"-51.5039062"},
+"trailLocs":[
+{"locTitle":"HeyMath head office - Chennai,India","locClue":"The innovative education company !","latCoord":"13.0488668","lngCoord":"80.2530348"},
+{"locTitle":"The Great pyramid - Egypt","locClue":"The great pharaoh rests in peace here !","latCoord":"29.9787564","lngCoord":"31.1345136"},
+{"locTitle":"Christ the redeemer - Brazil","locClue":"The great statue of christ !","latCoord":"-22.9519113","lngCoord":"-43.2104770"},
+{"locTitle":"Machu Picchu - Peru","locClue":"Lost city of the Incas!","latCoord":"-13.1633553","lngCoord":"-72.5459325"},
+{"locTitle":"Chichen itza - Mexico","locClue":"Wonder from the Mayan civilization !","latCoord":"20.6828337","lngCoord":"-88.5687088"},
+{"locTitle":"Colosseum - Italy","locClue":"Men fought Lions here !","latCoord":"41.8902021","lngCoord":"12.4923992"},
+{"locTitle":"Great wall - China","locClue":"This wonder is believed to be visible from the moon !","latCoord":"40.3558079","lngCoord":"116.0092842"},
+{"locTitle":"Taj Mahal - India","locClue":"The Wonder in marble !","latCoord":"27.1752044","lngCoord":"78.0420845"}
+]}

@@ -1,0 +1,27 @@
+<div id="questionSection" style="display:block">
+
+<input type="hidden" id="uax" value = "B" />
+<input type="hidden" id="uaxText" value = "2.5 grams" />
+
+<div>
+<span>The carbon dating technique used to determine the age of trees in the amazon rain forest uses the fact that every 5730 years, the amount of carbon-14 becomes half of what it was at the beginning of the time period. 
+<br>The amount of carbon 14 present in the wood sample after t years is given by <img src="images/question/Rivers/decay-eqn.png" > where A is measured in grams.</span><span class="empty_space">&nbsp;</span>
+</div>
+	
+	<div style="padding:0px 0px 0px 40px;" align="center">
+			<img style="float:left;" src="images/question/Rivers/amazon_forest.png" >
+	</div>
+
+	<div align="left" style="padding:0px 0px 10px 500px;">
+		<span >The amount of Carbon 14 present in the wood sample after 11460 years is :</span><br/><br/>
+		<form name="frmRadio" >
+			<input type="radio" name="answer" id="radioA" value="A" onclick="selectAnswer();"/><label for="radioA"> A) 3.75 grams</label><br/><br/>
+			<input type="radio" name="answer" id="radioB" value="B" onclick="selectAnswer();"/><label for="radioB"> B) 2.5 grams</label><br/><br/>
+			<input type="radio" name="answer" id="radioC" value="C" onclick="selectAnswer();"/><label for="radioC"> C) 0.5 grams</label><br/><br/>
+			<input type="radio" name="answer" id="radioD" value="D" onclick="selectAnswer();"/><label for="radioD"> D) 0.25 grams</label><br/><br/>
+			
+			<a id="ansSubmit" class="button red bigrounded" onclick="submitAnswer();">Submit</a>
+		</form>
+	</div>
+
+</div>

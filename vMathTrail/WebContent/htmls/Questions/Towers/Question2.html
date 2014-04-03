@@ -1,0 +1,28 @@
+<div id="questionSection" style="display:block">
+
+<input type="hidden" id="uax" value = "C" />
+<input type="hidden" id="uaxText" value = "26 cm x 26 cm x 0.65 m" />
+
+<div>
+<span>Eiffel Tower has an approximate height of <b>324 m</b> and a base with dimensions <b>125 m by 125 m.</b> 
+A souvenir of the tower which is a perfect scale model rests on a base with dimensions <b>25 cm by 25 cm.</b> Which of the following boxes can be used to pack the souvenir? 
+(Dimensions of the boxes are given in length x breadth x height format).</span><span class="empty_space">&nbsp;</span>
+</div>
+	
+	<div style="padding:20px 0px 0px 40px;" align="center">
+			<img style="float:left;" src="images/question/Towers/eiffel_tower.png" >
+	</div>
+
+	<div align="left" style="padding:0px 0px 10px 500px;">
+		<br/>
+		<form name="frmRadio" >
+			<input type="radio" name="answer" id="radioA" value="A" onclick="selectAnswer();"/><label for="radioA"> A) 13 cm x 14 cm x 0.6 m</label><br/><br/>
+			<input type="radio" name="answer" id="radioB" value="B" onclick="selectAnswer();"/><label for="radioB"> B) 25 cm x 25 cm x 60 cm</label><br/><br/>
+			<input type="radio" name="answer" id="radioC" value="C" onclick="selectAnswer();"/><label for="radioC"> C) 26 cm x 26 cm x 0.65 m</label><br/><br/>
+			<input type="radio" name="answer" id="radioD" value="D" onclick="selectAnswer();"/><label for="radioD"> D) 0.25 m x 0.25 m x 0.5 m</label><br/><br/>
+			
+			<a id="ansSubmit" class="button red bigrounded" onclick="submitAnswer();">Submit</a>
+		</form>
+	</div>
+
+</div>

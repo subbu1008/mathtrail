@@ -1,0 +1,25 @@
+{
+"trailDesc":"* In this trail, the Math Questions are hidden along the path of world famous rivers !<br>",
+"trailZoom":"2",
+"trailMinZoom":"2",
+"visibleZoom":"16",
+"trailCenter":{"latCoord":"22.2687640","lngCoord":"-16.875"},
+"oCircleRequired":"true",
+"oCircleRadius":"2000000",
+"oButtonRequired":"true",
+"oButtonZoom": "4",
+"mCircleRequired":"true",
+"mCircleRadius":"30000",
+"mCircleZoom": "6",
+"vCircleRequired":"true",
+"vCircleRadius":"500",
+"vCircleZoom": "9",
+"roundOffDivFactor": "1",
+"infoBubbleLoc":{"latCoord":"-12.4410223","lngCoord":"-51.5039062"},
+"trailLocs":[
+{"locTitle":"HeyMath head office - Chennai,India","locClue":"The innovative education company !","latCoord":"13.0488668","lngCoord":"80.2530348"},
+{"locTitle":"Yangtze river - China","locClue":"The world's largest dam is built across this river !","latCoord":"30.822359","lngCoord":"111.003284"},
+{"locTitle":"Mississippi river - USA","locClue":"Mark Twain’s famous stories are related to or take place near this river!","latCoord":"38.624953","lngCoord":"-90.184815"},
+{"locTitle":"Amazon river - Brazil","locClue":"Also called 'The River sea'!","latCoord":"-1.944207","lngCoord":"-53.804169"},
+{"locTitle":"Ganges river - India","locClue":"This river is beleived to have descended from Lord Shiva's hair locks !","latCoord":"29.944672","lngCoord":"78.159871"}
+]}

@@ -1,0 +1,28 @@
+{
+"trailDesc":"* In this trail, the Math Questions are hidden around world famous cricket grounds !<br>",
+"trailZoom":"2",
+"trailMinZoom":"2",
+"visibleZoom":"18",
+"trailCenter":{"latCoord":"7.0136679","lngCoord":"41.8359375"},
+"oCircleRequired":"true",
+"oCircleRadius":"2000000",
+"oButtonRequired":"true",
+"oButtonZoom": "4",
+"mCircleRequired":"true",
+"mCircleRadius":"50000",
+"mCircleZoom": "5",
+"vCircleRequired":"true",
+"vCircleRadius":"2000",
+"vCircleZoom": "9",
+"roundOffDivFactor": "1",
+"infoBubbleLoc":{"latCoord":"-12.4410223","lngCoord":"-4.5703125"},
+"trailLocs":[
+{"locTitle":"HeyMath head office - Chennai,India","locClue":"The innovative education company !","latCoord":"13.0488668","lngCoord":"80.2530348"},
+{"locTitle":"Sharjah - UAE","locClue":"This ground holds the record for most ODI matches !","latCoord":"25.3309063","lngCoord":"55.4209077"},
+{"locTitle":"Lords - England","locClue":"The ‘home of cricket’ !","latCoord":"51.5294315","lngCoord":"-0.1728630"},
+{"locTitle":"Sabina Park - Jamaica","locClue":"This ground is known as the 'The Holiday Home of Cricket' !","latCoord":"17.9779983","lngCoord":"-76.7824816"},
+{"locTitle":"Kensington Oval - Barbados","locClue":"Australia won their third consecutive ICC Cricket World Cup at this ground in 2007 !","latCoord":"13.1049761","lngCoord":"-59.6225130"},
+{"locTitle":"Sahara Park Newlands - South Africa","locClue":"This cricket ground has a view of Table Mountain !","latCoord":"-33.9736430","lngCoord":"18.4688007"},
+{"locTitle":"Perth - Australia","locClue":"The WACA Stadium !","latCoord":"-31.9597631","lngCoord":"115.8797442"},
+{"locTitle":"Melbourne Cricket Ground - Australia","locClue":"This is the largest cricket stadium in the world !","latCoord":"-37.8199633","lngCoord":"144.9834287"}
+]}
