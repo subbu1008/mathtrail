@@ -1,1 +1,1 @@
-update MathTrail_TrailStatus set TrailLiveStatus = 'M';
+update MathTrail_TrailStatus set TrailLiveStatus = 'Q';
